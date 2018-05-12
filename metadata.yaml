@@ -1,9 +1,13 @@
 _repo: Viscount-Dundee_49195
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Brown, Joseph
     gutenberg_agent_id: '42796'
     url: http://www.gutenberg.org/2009/agents/42796
+covers:
+- cover_type: archival
+  image_path: 49195-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbé, Louis A.
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43441
     wikipedia: https://en.wikipedia.org/wiki/Louis_Auguste_Barb%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49195#Viscount-Dundee
 gutenberg_issued: '2015-06-11'
 gutenberg_type: Text
 identifiers:
